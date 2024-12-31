@@ -28,7 +28,7 @@ A simple tool written in Julia to count the number of words in a string or a tex
 3. Run the program:
 
    ```bash
-   julia word_counter.jl
+   julia main.jl
    ```
 
 4. Follow the prompts:
