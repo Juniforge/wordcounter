@@ -1,6 +1,8 @@
 ---
 # Julia Word Counter
 
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A simple tool written in Julia to count the number of words in a string or a text file. This project demonstrates Julia's strengths in handling string manipulations and file I/O in an easy and efficient way.
 ---
 
